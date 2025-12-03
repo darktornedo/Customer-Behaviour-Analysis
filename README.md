@@ -1,11 +1,5 @@
 # 🧠 Customer Behaviour Analysis — EDA Project  
 
-### 📊 Internship Project at **Alfido Tech**  
-
-This project was completed as part of my **Data Analyst Internship at Alfido Tech**.  
-The goal was to perform **Exploratory Data Analysis (EDA)** on a large customer dataset to uncover insights about customer demographics, purchasing patterns, and churn behaviour.  
-
-
 ## 📝 Project Overview  
 
 The dataset consists of **250,000 records and 13 columns**, covering customer demographics, purchase behaviour, product categories, payment methods, returns, and churn status. The main objective was to analyze and visualize trends that help businesses understand their customers better — improving retention, marketing effectiveness, and revenue generation.  
@@ -81,4 +75,4 @@ It demonstrates the **complete EDA lifecycle** — from data cleaning and featur
 ## 👩‍💻 Author  
 
 **Kumkum Pal**  
-*Data Analyst Intern at @Alfido Tech*  
+**Email : kumkumpal404@gmail.com**  
