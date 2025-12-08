@@ -7,11 +7,15 @@ This project analyzes customer behaviour for an e-commerce platform using Python
 
 The dataset consists of 250,000 records and originally 13 columns, later expanded to 18 columns with additional engineered fields such as:
 ```
-order_value
+customer_id
+price
+quantity
+gender
 churn
-age_group
-year, month, day_name
-cohort_month, cohort_index
+age
+return
+product_category
+payment_method
 ```
 
 The main objective is to:
@@ -154,4 +158,3 @@ The cleaned and enriched dataset (now 18 columns) was exported as a CSV and used
 
 ## 👩‍💻 Author
 **Kumkum Pal**
-**Email: kumkumpal404@gmail.com**
